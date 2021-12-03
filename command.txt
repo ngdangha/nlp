@@ -1,5 +1,5 @@
 Convert data from conll to spacy:
-spacy convert 'file_path' -c conll -n 10 'data_path'
+spacy convert 'file_path' -c conll -n 2 'data_path'
 
 Generate config file for training from base config:
 spacy init fill-config 'base config path' 'config file'
